@@ -1,31 +1,27 @@
 {
-  "posts": [
+  "previous": "Some URL for previous page",
+  "next": "Some URL for next page",
+  "results": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "first_name": "Suprem",
+      "last_name": "Nandal",
+      "email": "suprem.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "first_name": "Suprem",
+      "last_name": "Nandal",
+      "email": "suprem.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": false
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "first_name": "Suprem",
+      "last_name": "Nandal",
+      "email": "suprem.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
